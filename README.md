@@ -4,7 +4,7 @@ Codility
 Solutions to [Codility](http://codility.com/) programming [challenges and tasks](http://codility.com/train/):
 
 - [x] [Alpha 2010](https://codility.com/demo/take-sample-test/alpha2010/)
-- [ ] [Beta 2010](https://codility.com/demo/take-sample-test/beta2010/)
+- [x] [Beta 2010](https://codility.com/demo/take-sample-test/beta2010/)
 - [ ] [Gamma 2011](https://codility.com/demo/take-sample-test/gamma2011/)
 - [ ] [Delta 2011](https://codility.com/demo/take-sample-test/delta2011/)
 - [ ] [Epsilon 2011](https://codility.com/demo/take-sample-test/epsilon2011/)
