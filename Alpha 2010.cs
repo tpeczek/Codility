@@ -1,5 +1,6 @@
 using System;
 
+//Alpha 2010
 class Solution {
     public int solution(int[] A) {
         //This is where result will be stored
