@@ -28,4 +28,4 @@ Solutions to [Codility](http://codility.com/) programming [challenges and tasks]
 - [ ] [Psi 2012](http://codility.com/demo/take-sample-test/psi2012/)
 - [ ] [Omega 2013](http://codility.com/demo/take-sample-test/omega2013)
 - [ ] [Hydrogenium 2013](http://codility.com/demo/take-sample-test/hydrogenium2013)
-- [ ] [EQUI](http://codility.com/demo/take-sample-test/)
+- [x] [Equi](http://codility.com/demo/take-sample-test/)
