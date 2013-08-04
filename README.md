@@ -6,7 +6,7 @@ Solutions to [Codility](http://codility.com/) programming [challenges and tasks]
 - [x] [Alpha 2010](https://codility.com/demo/take-sample-test/alpha2010/)
 - [x] [Beta 2010](https://codility.com/demo/take-sample-test/beta2010/)
 - [x] [Gamma 2011](https://codility.com/demo/take-sample-test/gamma2011/)
-- [ ] [Delta 2011](https://codility.com/demo/take-sample-test/delta2011/)
+- [x] [Delta 2011](https://codility.com/demo/take-sample-test/delta2011/)
 - [ ] [Epsilon 2011](https://codility.com/demo/take-sample-test/epsilon2011/)
 - [ ] [Zeta 2011](https://codility.com/demo/take-sample-test/zeta2011/)
 - [ ] [Eta 2011](https://codility.com/demo/take-sample-test/eta2011/)
