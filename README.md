@@ -9,7 +9,7 @@ Solutions to [Codility](http://codility.com/) programming [challenges and tasks]
 - [x] [Delta 2011](https://codility.com/demo/take-sample-test/delta2011/)
 - [x] [Epsilon 2011](https://codility.com/demo/take-sample-test/epsilon2011/)
 - [x] [Zeta 2011](https://codility.com/demo/take-sample-test/zeta2011/)
-- [ ] [Eta 2011](https://codility.com/demo/take-sample-test/eta2011/)
+- [x] [Eta 2011](https://codility.com/demo/take-sample-test/eta2011/)
 - [ ] [Theta 2011](https://codility.com/demo/take-sample-test/theta2011/)
 - [ ] [Iota 2011](https://codility.com/demo/take-sample-test/iota2011/)
 - [ ] [Kappa 2011](http://codility.com/demo/take-sample-test/kappa2011)
