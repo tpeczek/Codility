@@ -15,7 +15,7 @@ Solutions to [Codility](http://codility.com/) programming [challenges and tasks]
 - [x] [Kappa 2011](http://codility.com/demo/take-sample-test/kappa2011)
 - [x] [Lambda 2011](http://codility.com/demo/take-sample-test/lambda2011)
 - [x] [Mu 2011](http://codility.com/demo/take-sample-test/mu2011)
-- [ ] [Nu 2011](http://codility.com/demo/take-sample-test/nu2011)
+- [x] [Nu 2011](http://codility.com/demo/take-sample-test/nu2011)
 - [ ] [Xi 2012](http://codility.com/demo/take-sample-test/xi2012)
 - [ ] [Omicron 2012](http://codility.com/demo/take-sample-test/omicron2012)
 - [ ] [Pi 2012](http://codility.com/demo/take-sample-test/pi2012)
