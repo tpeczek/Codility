@@ -6,7 +6,7 @@ public class ModularArithmetic
     #region Modulus
     private long _modulus;
 
-    //The modular arithemic requires different modulus operation than % operator provides
+    //The modular arithmetic requires different modulus operation than % operator provides
     private long CongruentModulo(long dividend)
     {
         return (dividend % _modulus + _modulus) % _modulus;
@@ -82,7 +82,7 @@ public class ModularArithmetic
 
     public long Subtract(long minuend, long subtrahend)
     {
-        return CongruentModulo(minuend - subtrahend);
+        return CongruentModulo(minuend - subtrahend + _modulus);
     }
     #endregion
 }

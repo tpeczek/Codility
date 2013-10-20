@@ -15,7 +15,7 @@ class Solution
     #region Constructor
     public Solution()
     {
-        //Because potential numbers might be very big we will use modular arithemtic
+        //Because potential numbers might be very big we will use modular arithmetic
         _modularArithmetic = new ModularArithmetic(_modulus);
     }
     #endregion
@@ -34,7 +34,7 @@ class Solution
             if (L > 1 && S.StartsWith("0"))
                 throw new ArgumentException("Parameter can't contain leading zeros", "S");
 
-            //We will store the value of the N in the modular arithemtic form
+            //We will store the value of the N in the modular arithmetic form
             long modularArithmeticNumber = 0;
             //We will also store the number of zeros in a decimal representation of N --> Z
             int numberOfZerosInNumber = 0;
@@ -49,7 +49,7 @@ class Solution
                 int digit = _digits[S[i]];
 
                 //numberOfZeros(10 * N + D) = 10 * (numberOfZeros(N) - 1) + N - (9 - D)*Z + 1
-                numberOfZeros = _modularArithmetic.Subtract(_modularArithmetic.Add(_modularArithmetic.Multiply(10, numberOfZeros), modularArithmeticNumber + _modulus), _modularArithmetic.Multiply(numberOfZerosInNumber, 9 - digit));
+                numberOfZeros = _modularArithmetic.Subtract(_modularArithmetic.Add(_modularArithmetic.Multiply(10, numberOfZeros), modularArithmeticNumber), _modularArithmetic.Multiply(numberOfZerosInNumber, 9 - digit));
                         
                 if (digit == 0)
                     numberOfZerosInNumber += 1;
