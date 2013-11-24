@@ -20,7 +20,7 @@ Solutions to [Codility](http://codility.com/) programming [challenges and tasks]
 - [x] [Omicron 2012](http://codility.com/demo/take-sample-test/omicron2012)
 - [x] [Pi 2012](http://codility.com/demo/take-sample-test/pi2012)
 - [x] [Rho 2012](http://codility.com/demo/take-sample-test/rho2012)
-- [ ] [Sigma 2012](http://codility.com/demo/take-sample-test/sigma2012)
+- [x] [Sigma 2012](http://codility.com/demo/take-sample-test/sigma2012)
 - [ ] [Tau 2012](http://codility.com/demo/take-sample-test/tau2012)
 - [ ] [Upsilon 2012](http://codility.com/demo/take-sample-test/upsilon2012)
 - [ ] [Phi 2012](http://codility.com/demo/take-sample-test/phi2012)
