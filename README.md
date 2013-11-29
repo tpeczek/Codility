@@ -21,7 +21,7 @@ Solutions to [Codility](http://codility.com/) programming [challenges and tasks]
 - [x] [Pi 2012](http://codility.com/demo/take-sample-test/pi2012)
 - [x] [Rho 2012](http://codility.com/demo/take-sample-test/rho2012)
 - [x] [Sigma 2012](http://codility.com/demo/take-sample-test/sigma2012)
-- [ ] [Tau 2012](http://codility.com/demo/take-sample-test/tau2012)
+- [x] [Tau 2012](http://codility.com/demo/take-sample-test/tau2012)
 - [ ] [Upsilon 2012](http://codility.com/demo/take-sample-test/upsilon2012)
 - [ ] [Phi 2012](http://codility.com/demo/take-sample-test/phi2012)
 - [ ] [Chi 2012](http://codility.com/demo/take-sample-test/chi2012)
@@ -29,3 +29,7 @@ Solutions to [Codility](http://codility.com/) programming [challenges and tasks]
 - [ ] [Omega 2013](http://codility.com/demo/take-sample-test/omega2013)
 - [ ] [Hydrogenium 2013](http://codility.com/demo/take-sample-test/hydrogenium2013)
 - [ ] [Helium 2013](http://codility.com/demo/take-sample-test/helium2013)
+- [ ] [Lithium 2013](http://codility.com/demo/take-sample-test/lithium2013)
+- [ ] [Beryllium 2013](http://codility.com/demo/take-sample-test/beryllium2013)
+- [ ] [Boron 2013](http://codility.com/demo/take-sample-test/boron2013)
+- [ ] Carbo 2013
