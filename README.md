@@ -22,7 +22,7 @@ Solutions to [Codility](http://codility.com/) programming [challenges and tasks]
 - [x] [Rho 2012](http://codility.com/demo/take-sample-test/rho2012)
 - [x] [Sigma 2012](http://codility.com/demo/take-sample-test/sigma2012)
 - [x] [Tau 2012](http://codility.com/demo/take-sample-test/tau2012)
-- [ ] [Upsilon 2012](http://codility.com/demo/take-sample-test/upsilon2012)
+- [x] [Upsilon 2012](http://codility.com/demo/take-sample-test/upsilon2012)
 - [ ] [Phi 2012](http://codility.com/demo/take-sample-test/phi2012)
 - [ ] [Chi 2012](http://codility.com/demo/take-sample-test/chi2012)
 - [ ] [Psi 2012](http://codility.com/demo/take-sample-test/psi2012/)
