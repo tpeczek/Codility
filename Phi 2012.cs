@@ -88,14 +88,6 @@ class Solution
     private long[,] PowerMatrix(long[,] @base, long power)
     {
         long[,] product = GetIdentityMatrix(@base.GetLength(0));
-        
-        //while (power > 0)
-        //{
-        //    if (power % 2 == 1)
-        //        product = MultiplyMatrices(@base, product);
-        //    @base = MultiplyMatrices(@base, @base);
-        //    power = power / 2;
-        //}
 
         if (power == 0)
             product = GetIdentityMatrix(@base.GetLength(0));

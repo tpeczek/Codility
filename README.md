@@ -24,7 +24,7 @@ Solutions to [Codility](http://codility.com/) programming [challenges and tasks]
 - [x] [Tau 2012](http://codility.com/demo/take-sample-test/tau2012)
 - [x] [Upsilon 2012](http://codility.com/demo/take-sample-test/upsilon2012)
 - [x] [Phi 2012](http://codility.com/demo/take-sample-test/phi2012)
-- [ ] [Chi 2012](http://codility.com/demo/take-sample-test/chi2012)
+- [x] [Chi 2012](http://codility.com/demo/take-sample-test/chi2012)
 - [ ] [Psi 2012](http://codility.com/demo/take-sample-test/psi2012/)
 - [ ] [Omega 2013](http://codility.com/demo/take-sample-test/omega2013)
 - [ ] [Hydrogenium 2013](http://codility.com/demo/take-sample-test/hydrogenium2013)
