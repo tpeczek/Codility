@@ -1,7 +1,7 @@
 Codility
 ========
 
-Solutions to [Codility](http://codility.com/) programming [challenges and tasks](http://codility.com/train/):
+Solutions to [Codility](http://codility.com/) programming [challenges](https://codility.com/programmers/challenges/):
 
 - [x] [Alpha 2010](https://codility.com/programmers/challenges/alpha2010)
 - [x] [Beta 2010](https://codility.com/programmers/challenges/beta2010)
@@ -16,7 +16,7 @@ Solutions to [Codility](http://codility.com/) programming [challenges and tasks]
 - [x] [Lambda 2011](https://codility.com/programmers/challenges/lambda2011)
 - [x] [Mu 2011](https://codility.com/programmers/challenges/mu2011)
 - [x] [Nu 2011](https://codility.com/programmers/challenges/nu2011)
-- [x] [Xi 2012](hhttps://codility.com/programmers/challenges/xi2012)
+- [x] [Xi 2012](https://codility.com/programmers/challenges/xi2012)
 - [x] [Omicron 2012](https://codility.com/programmers/challenges/omicron2012)
 - [x] [Pi 2012](https://codility.com/programmers/challenges/pi2012)
 - [x] [Rho 2012](https://codility.com/programmers/challenges/rho2012)
