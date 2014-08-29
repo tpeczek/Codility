@@ -50,6 +50,6 @@ Support this and my [other projects](https://github.com/tpeczek/) via [Gittip](h
 
 ## Copyright and License
 
-Copyright © 2013 - 2014 Tomasz Pêczek
+Copyright Â© 2013 - 2014 Tomasz PÄ™czek
 
 Licensed under the [MIT License](https://github.com/tpeczek/Codility/blob/master/LICENSE.md)
