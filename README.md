@@ -1,4 +1,4 @@
-Codility
+﻿Codility
 ========
 
 Solutions to [Codility](http://codility.com/) programming [challenges](https://codility.com/programmers/challenges/):
@@ -50,6 +50,6 @@ Support this and my [other projects](https://github.com/tpeczek/) via [Gittip](h
 
 ## Copyright and License
 
-Copyright © 2013 - 2015 Tomasz Pęczek
+Copyright © 2013 - 2016 Tomasz Pęczek
 
 Licensed under the [MIT License](https://github.com/tpeczek/Codility/blob/master/LICENSE.md)
