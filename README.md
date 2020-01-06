@@ -51,6 +51,6 @@ My blog and open source projects are result of my passion for software developme
 
 ## Copyright and License
 
-Copyright © 2013 - 2019 Tomasz Pęczek
+Copyright © 2013 - 2020 Tomasz Pęczek
 
 Licensed under the [MIT License](https://github.com/tpeczek/Codility/blob/master/LICENSE.md)
